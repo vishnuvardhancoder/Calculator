@@ -103,7 +103,6 @@ body{
     border: 2px solid #333;
 }
 
-
 .calculator .buttons span#clear:active,
 .calculator .buttons span#plus:active,
 .calculator .buttons span#equal:active
