@@ -149,6 +149,8 @@ body{
 .dark .copyright span{
     color: #ff00d0;
 }
+
+//for responsiveness 
  @media only screen and (max-width: 600px){
     .toggleBtn{
         position: fixed;
